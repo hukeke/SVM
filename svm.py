@@ -184,3 +184,4 @@ btn6 = Button(window, text='查看准确率', font=('宋体', 15, 'bold'),comman
 global fn,fm,fe,fw
 fr=0
 mainloop()
+#使用
